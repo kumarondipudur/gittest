@@ -1,5 +1,1 @@
 This is my first test file
-
-Modified by Kumar
-To Check the diff command exactly
-
